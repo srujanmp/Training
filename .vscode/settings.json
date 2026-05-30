@@ -1,0 +1,8 @@
+{
+  "problems.decorations.enabled": false,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "java.trace.server": "off"
+}
