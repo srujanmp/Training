@@ -1,3 +1,6 @@
+- [Google Classroom Link](https://classroom.google.com/c/ODYzMTkwNDMzNTM3)
+- [Sirs GitHub](https://github.com/razzaksr/Nitte-PST-DSA-2026/)
+
 ## Placement LeetCode Solve
 
 ### DAY 1 - 29/05
