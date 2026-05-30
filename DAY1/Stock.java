@@ -18,6 +18,5 @@ class Stock{
         }
 
         System.out.println(Arrays.toString(res));
-        System.out.println( 50000*80);
     }
 }
