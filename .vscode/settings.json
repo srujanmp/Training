@@ -1,7 +1,7 @@
 {
   "problems.decorations.enabled": false,
   "[java]": {
-    "editor.defaultFormatter": "redhat.java"
+    "editor.defaultFormatter": "Oracle.oracle-java"
   },
   "java.errors.incompleteClasspath.severity": "ignore",
   "java.trace.server": "off"

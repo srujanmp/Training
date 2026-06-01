@@ -5,9 +5,9 @@
 
 ### DAY 1 - 29/05
 
-- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [X] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [X] [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [X] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [ ] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number)
@@ -26,7 +26,7 @@
 
 ### DAY3
 - [ ] BMI
-
+- [ ] Medium articles post it in linkedin
 ### Schedule
 
 
