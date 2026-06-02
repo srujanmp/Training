@@ -37,13 +37,17 @@ class Patient {
     }
 
     //@ set name, age, gender, weight, height
-    public void set(String name, int age, String gender, double weight, double height) {
+    Patient(String name, int age, String gender, double weight, double height) {
         this.name = name;
         this.age = age;
         this.gender = gender;
         this.weight = weight;
         this.height = height;
     }
+
+
+
+
 
     public String getName() {
         return name;
@@ -92,6 +96,21 @@ class Patient {
     public void setBmi(double bmi) {
         this.bmi = bmi;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("Patient{");
+        sb.append("name=").append(name);
+        sb.append(", age=").append(age);
+        sb.append(", gender=").append(gender);
+        sb.append(", bmi=").append(bmi);
+        sb.append('}');
+        return sb.toString();
+    }
+
+
+    
 }
 
 public class Health {
@@ -126,12 +145,13 @@ public class Health {
     }
 
     public static void main(String[] args) {
-        Patient pat1 = new Patient();
-        pat1.set("Srujan", 20, "Male", 70.3, 153.2);
+        Patient pat1 = new Patient("Srujan", 20, "Male", 70.3, 153.2);
 
-        Patient pat2 = new Patient();
-        pat2.set("nik", 20, "Female", 40.9, 154.9);
+        Patient pat2 = new Patient("nik", 20, "Female", 40.9, 154.9);
         calculate(pat1);
         calculate(pat2);
+
+
+        System.out.println(pat1);
     }
 }

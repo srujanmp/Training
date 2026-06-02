@@ -27,6 +27,19 @@
 ### DAY3
 - [ ] BMI
 - [ ] Medium articles post it in linkedin
+- [ ] Climb Stairs
+- [ ] Patterns
+- [ ] Rotate k steps
+- [ ] Power of three
+- [ ] Reverse Bits
+- [ ] Single Sum
+
+### DAY4
+
+- [ ] Using recursion find prefix and postfix sum
+- [ ] Merge 2 sorted array
+- [ ] Find minimum element in rotated and sorted array
+- [ ] Inheritance
 ### Schedule
 
 
