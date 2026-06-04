@@ -1,0 +1,25 @@
+Question Name,LeetCode Link,Difficulty,Local File Path
+"Move Zeroes",https://leetcode.com/problems/move-zeroes/,Easy,DAY1/Move.java
+"Sort Colors",https://leetcode.com/problems/sort-colors/,Medium,DAY1/SortColors.java
+"Missing Number",https://leetcode.com/problems/missing-number/,Easy,DAY1/MinMissing.java
+"Best Time to Buy and Sell Stock",https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,DAY1/Stock.java
+"Remove Duplicates from Sorted Array",https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Easy,DAY2/RemoveDuplicates.java
+"Third Maximum Number",https://leetcode.com/problems/third-maximum-number/,Easy,N/A (Listed in WORK.md)
+"Find Pivot Index",https://leetcode.com/problems/find-pivot-index/,Easy,DAY2/pivotIndex.java
+"Group Anagrams",https://leetcode.com/problems/group-anagrams/,Medium,DAY2/GroupAnagrams.java
+"Maximum Subarray",https://leetcode.com/problems/maximum-subarray/,Medium,DAY2/MaxSub.java
+"Rotate Image",https://leetcode.com/problems/rotate-image/,Medium,DAY2/RotateImage.java
+"Set Matrix Zeroes",https://leetcode.com/problems/set-matrix-zeroes/,Medium,N/A (Listed in WORK.md)
+"Valid Palindrome",https://leetcode.com/problems/valid-palindrome/,Easy,N/A (Listed in WORK.md)
+"Climbing Stairs",https://leetcode.com/problems/climbing-stairs/,Easy,DAY3/ClimbStairs.java
+"Power of Three",https://leetcode.com/problems/power-of-three/,Easy,DAY3/AsPower.java
+"Reverse Bits",https://leetcode.com/problems/reverse-bits/,Easy,DAY3/AsReverse.java
+"Single Number",https://leetcode.com/problems/single-number/,Easy,DAY3/AsSingle.java
+"Merge Sorted Array",https://leetcode.com/problems/merge-sorted-array/,Easy,DAY4/MergeArray.java
+"Find Minimum in Rotated Sorted Array",https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,"DAY4/MinRot.java, DAY4/min2.java"
+"Fair Candy Swap",https://leetcode.com/problems/fair-candy-swap/,Easy,DAY4/AsCandy.java
+"Search Insert Position",https://leetcode.com/problems/search-insert-position/,Easy,DAY4/AsBS.java
+"Coin Change",https://leetcode.com/problems/coin-change/,Medium,DAY5/CoinChange.java
+"Non-overlapping Intervals",https://leetcode.com/problems/non-overlapping-intervals/,Medium,DAY5/Overlap.java
+"House Robber",https://leetcode.com/problems/house-robber/,Medium,DAY5/Solution.java
+"Edit Distance",https://leetcode.com/problems/edit-distance/,Hard,DAY5/Operations.java

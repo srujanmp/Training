@@ -40,6 +40,39 @@
 - [ ] Merge 2 sorted array
 - [ ] Find minimum element in rotated and sorted array
 - [ ] Inheritance
+- [ ] fairCandySwap
+- [ ] Binary search
+- [ ] Loan class objects
+
+
+### DAY5
+- [ ] Coin change
+- [ ] Non overlapping Intervals
+- [ ] Modifiers: public, static,private,default,final,abstract,protected
+- [ ] Loggings: java.util.Logger  there are levels:INFO,DEBUG,ERROR,WARN
+
+- { } Factory Pattern : List<>=new ArrayList<>
+- { } Singleton pattern : only one object uses getter for that one object
+- { } Exception Handling:
+    Throwable>>interface
+    Exception implements Throwable
+    RunTimeException extends Exception
+
+    Exceptions:
+        Compile/Checked
+            IOExceptoion
+            Interrupted Exception
+        Runtime/Umnchecked
+            ArrayIndexOutOfBoundException
+            NumberFormatException
+            InputMismatchException
+    Exception Handling:
+        try{}
+        catch(Exception e){}
+        finally{}
+    user defined exceptions
+- [ ] Run app
+- [ ] house Robber
 ### Schedule
 
 
