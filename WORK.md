@@ -73,6 +73,15 @@
     user defined exceptions
 - [ ] Run app
 - [ ] house Robber
+
+### DAY6
+- [ ] Longest increasing subsequence
+- [ ] Unique Paths *
+- [ ] Long common subsequence
+- [ ] Collections
+- [ ] Largest rectangle in Histogram
+- [ ] LRU Cache *
+- [ ] Sliding Window Maximum
 ### Schedule
 
 

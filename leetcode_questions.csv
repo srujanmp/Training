@@ -23,3 +23,4 @@ Question Name,LeetCode Link,Difficulty,Local File Path
 "Non-overlapping Intervals",https://leetcode.com/problems/non-overlapping-intervals/,Medium,DAY5/Overlap.java
 "House Robber",https://leetcode.com/problems/house-robber/,Medium,DAY5/Solution.java
 "Edit Distance",https://leetcode.com/problems/edit-distance/,Hard,DAY5/Operations.java
+"Meeting rooms", neetcode.com,Medium,DAY5/AsMeetingRooms
