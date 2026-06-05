@@ -1,7 +1,7 @@
 //Unique Morse Code Words
 import java.util.HashSet;
 
-public class hash {
+public class  MorseCode {
     public static void main(String[] args) {
         String[] words={"aba","aab","aba"};
         String []morse={".-","-...",""};

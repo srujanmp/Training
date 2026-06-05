@@ -25,31 +25,32 @@
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 ### DAY3
-- [ ] BMI
+
+- [X] BMI
 - [ ] Medium articles post it in linkedin
-- [ ] Climb Stairs
-- [ ] Patterns
-- [ ] Rotate k steps
-- [ ] Power of three
-- [ ] Reverse Bits
-- [ ] Single Sum
+- [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [X] Patterns
+- [X] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [X] [Power of Three](https://leetcode.com/problems/power-of-three/)
+- [X] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [X] [Single Number](https://leetcode.com/problems/single-number/)
 
 ### DAY4
 
-- [ ] Using recursion find prefix and postfix sum
-- [ ] Merge 2 sorted array
-- [ ] Find minimum element in rotated and sorted array
-- [ ] Inheritance
-- [ ] fairCandySwap
-- [ ] Binary search
-- [ ] Loan class objects
-
+- [X] Using recursion find prefix and postfix sum
+- [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [X] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [X] Inheritance
+- [X] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+- [X] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [X] Loan class objects
 
 ### DAY5
-- [ ] Coin change
-- [ ] Non overlapping Intervals
-- [ ] Modifiers: public, static,private,default,final,abstract,protected
-- [ ] Loggings: java.util.Logger  there are levels:INFO,DEBUG,ERROR,WARN
+
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [ ] Modifiers: public, static, private, default, final, abstract, protected
+- [X] Loggings: java.util.Logger there are levels: INFO, DEBUG, ERROR, WARN
 
 - { } Factory Pattern : List<>=new ArrayList<>
 - { } Singleton pattern : only one object uses getter for that one object
@@ -60,10 +61,10 @@
 
     Exceptions:
         Compile/Checked
-            IOExceptoion
-            Interrupted Exception
-        Runtime/Umnchecked
-            ArrayIndexOutOfBoundException
+            IOException
+            InterruptedException
+        Runtime/Unchecked
+            ArrayIndexOutOfBoundsException
             NumberFormatException
             InputMismatchException
     Exception Handling:
@@ -71,29 +72,32 @@
         catch(Exception e){}
         finally{}
     user defined exceptions
-- [ ] Run app
-- [ ] house Robber
-- [ ] IPV4
+- [X] Run app
+- [X] [House Robber](https://leetcode.com/problems/house-robber/)
+- [X] IPv4 Validator
+- [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) *(LintCode/Premium)*
 
 ### DAY6
-- [ ] Longest increasing subsequence
-- [ ] Unique Paths *
-- [ ] Long common subsequence
-- [ ] Collections
-- [ ] Largest rectangle in Histogram
-- [ ] LRU Cache *
-- [ ] Sliding Window Maximum
-- [ ] https://leetcode.com/problems/valid-parentheses
-- [ ] https://leetcode.com/problems/daily-temperatures
+
+- [X] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [X] [Unique Paths](https://leetcode.com/problems/unique-paths/) *
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [X] Collections
+- [X] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [X] [LRU Cache](https://leetcode.com/problems/lru-cache/) *
+- [X] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
 ### DAY7
-- [ ] Unique Morse Code Words
-- [ ] 771. Jewels and Stones 
-- [ ] longest substring without repeating charaters
-- [ ] Minimum Window Substring
-- [ ] Top K Elements
-- [ ] https://leetcode.com/problems/majority-element/
-- [ ] https://leetcode.com/problems/word-pattern/description/
+
+- [X] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+- [X] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [X] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [X] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [X] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [X] [Word Pattern](https://leetcode.com/problems/word-pattern/)
 ### Schedule
 
 
