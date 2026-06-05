@@ -73,6 +73,7 @@
     user defined exceptions
 - [ ] Run app
 - [ ] house Robber
+- [ ] IPV4
 
 ### DAY6
 - [ ] Longest increasing subsequence
@@ -82,6 +83,17 @@
 - [ ] Largest rectangle in Histogram
 - [ ] LRU Cache *
 - [ ] Sliding Window Maximum
+- [ ] https://leetcode.com/problems/valid-parentheses
+- [ ] https://leetcode.com/problems/daily-temperatures
+
+### DAY7
+- [ ] Unique Morse Code Words
+- [ ] 771. Jewels and Stones 
+- [ ] longest substring without repeating charaters
+- [ ] Minimum Window Substring
+- [ ] Top K Elements
+- [ ] https://leetcode.com/problems/majority-element/
+- [ ] https://leetcode.com/problems/word-pattern/description/
 ### Schedule
 
 
