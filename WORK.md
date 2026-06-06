@@ -55,23 +55,24 @@
 - { } Factory Pattern : List<>=new ArrayList<>
 - { } Singleton pattern : only one object uses getter for that one object
 - { } Exception Handling:
-    Throwable>>interface
-    Exception implements Throwable
-    RunTimeException extends Exception
+  Throwable>>interface
+  Exception implements Throwable
+  RunTimeException extends Exception
 
-    Exceptions:
-        Compile/Checked
-            IOException
-            InterruptedException
-        Runtime/Unchecked
-            ArrayIndexOutOfBoundsException
-            NumberFormatException
-            InputMismatchException
-    Exception Handling:
-        try{}
-        catch(Exception e){}
-        finally{}
-    user defined exceptions
+  Exceptions:
+  Compile/Checked
+  IOException
+  InterruptedException
+  Runtime/Unchecked
+  ArrayIndexOutOfBoundsException
+  NumberFormatException
+  InputMismatchException
+  Exception Handling:
+  try{}
+  catch(Exception e){}
+  finally{}
+  user defined exceptions
+
 - [X] Run app
 - [X] [House Robber](https://leetcode.com/problems/house-robber/)
 - [X] IPv4 Validator
@@ -98,6 +99,43 @@
 - [X] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [X] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [X] [Word Pattern](https://leetcode.com/problems/word-pattern/)
+
+### DAY8
+
+![alt text](DAY8/images/files_read_write.png)
+
+- [ ] File read and write to file
+  BufferReader -> Data Input Stream / File Reader
+  BufferWriter -> Data Output Stream / File Writer
+  ![alt text](DAY8/images/serialization1.png)
+- [ ] Serialization
+  serialize >> ObjectOutputStream
+  deserialize >> ObjectInputStream
+  ![alt text](DAY8/images/serialize2.png)
+- [ ] Threads
+
+  - singletask multithread
+  - multitask multithread
+    ![alt text](DAY8/images/threads.png)
+  - Multithread:
+
+    - Multiple access/thread to the resource class
+    - Resource class:class must inherit either ThreadClass/Runnable interface
+
+    `public void run run();`
+
+    ### Thread life cycle:
+
+
+    - created/born
+    - execute: run/start
+    - waiting: sleep/wait
+    - abort: stop
+
+    To use threads
+    - implement Runnable interface
+    - extends Thread class
+
 ### Schedule
 
 

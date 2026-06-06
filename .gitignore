@@ -1,2 +1,6 @@
 node_modules
 chat-data.json
+DAY8/Logs.doc
+*/*.class
+DAY8/PatientRecord.doc
+# add .gitignore
