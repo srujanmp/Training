@@ -136,6 +136,20 @@
     - implement Runnable interface
     - extends Thread class
 
+### DAY9
+- [ ] Lambda Expression
+- [ ] Method Reference
+- [ ] Functional interface
+- [ ] Thread problem
+- [ ] Find words containing character
+- [ ] First Missing Positive
+
+### DAY10
+- [ ] Generics
+- [ ] Ternary Search
+- [ ] Generic Method Problem
+- [ ] Quick Sort
+
 ### Schedule
 
 
