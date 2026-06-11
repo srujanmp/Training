@@ -11,6 +11,14 @@ class WareHouse<T>{
         return data;
     }
 }
+public class Main {
+    public static void main(String[] args) {
+        int count = 30;
+        for (int i = 1; i <= count; i++) {
+            System.out.println("Hello");
+        }
+    }
+}
 public class GerenicDemo {
     public static void main(String[] args) {
         WareHouse<Integer> house1=new WareHouse<>();

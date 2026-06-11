@@ -5,3 +5,6 @@ DAY8/Logs.doc
 DAY8/PatientRecord.doc
 n.pdf
 # add .gitignore
+x.code
+
+JAVA_MAVEN/demo/target

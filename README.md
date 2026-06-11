@@ -133,10 +133,12 @@
     - abort: stop
 
     To use threads
+
     - implement Runnable interface
     - extends Thread class
 
 ### DAY9
+
 - [ ] Lambda Expression
 - [ ] Method Reference
 - [ ] Functional interface
@@ -145,10 +147,60 @@
 - [ ] First Missing Positive
 
 ### DAY10
+
 - [ ] Generics
 - [ ] Ternary Search
 - [ ] Generic Method Problem
 - [ ] Quick Sort
+- [ ] Immutable class
+- [ ] Solid principlies
+
+  - S-Single Responsibiity
+  - O-Open/Close
+    - Google class
+    - yt extends g //follows
+    - drive extends g //follows
+    - playstore extends yt //follows
+    - facebook extends g //followed
+    - insta extends facebook //not
+    - thread extends insta //not
+  - L-Liskov substitution
+    - List has add remove get
+    - ArrayList -child
+    - LinkedList -child
+  - I-Interface segregation
+    - Banking interface >> Deposit & Withdraw
+    - File>> storage
+    - ATM >> Withdraw //violated interface segregation
+  D-Dependancy Inversion:
+    - File>> storage
+    - DataBase>> storage
+    - CRUD>> storage object l
+  Database
+    - Tables
+      - Columns
+        - types:varchar,int,double,bigint,blob
+        - index:primary key,unique,foreign,default,-  - auto increment
+      - rows/records
+
+    - CRUD SQL
+      - language types:
+        DDL: create, drop, alter
+        database, table, user, sequence, views, procedures, triggers, functions
+        DQL: fetch joins select
+        DML: select,insert,update,delete
+        DCL: grant, revoke, authorize operations on tables grant, revoke
+        TCL: Transaction commit rollback
+        
+
+### DAY11
+- [ ] Complete SQL
+- [ ] JAVA PROJECT SETUP
+      - tools: maven, gradle
+      - maven prject structure 
+      mvn clean
+      mvn
+
 
 ### Schedule
 
